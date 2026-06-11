@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f68c94890694a343b5690b500bd183f
+timeCreated: 1524748906
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117527
+  packageName: Halloween UI
+  packageVersion: 1.0
+  assetPath: Assets/HalloweenUI/ReadMe.txt
+  uploadId: 242601

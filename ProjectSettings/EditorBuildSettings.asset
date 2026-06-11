@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/mainScene/main.unity
+    guid: f6468b97f80211a4c8732aaa797380a6
+  - enabled: 1
+    path: Assets/_EunHyunwoo/01 1.Scene/Robby.unity
+    guid: c963f819b75762b47b619845e116c11e
+  - enabled: 1
+    path: Assets/_EunHyunwoo/01 1.Scene/Next Robby.unity
+    guid: 3ca26f2b9e72ba845b24c65f826a9d33
+  - enabled: 1
+    path: Assets/_EunHyunwoo/01 1.Scene/PokemonDetail.unity
+    guid: 66c6d55d77899d843bd1ceb012028cc3
+  - enabled: 1
+    path: Assets/_EunHyunwoo/01 1.Scene/PokemonDetail_0004.unity
+    guid: 6d03f073f6e043d43b6c61c7a01e650e
+  - enabled: 1
+    path: Assets/_KimMinSeok/Scene/DexScene.unity
+    guid: 2f958459140650f47b21031321488b61
+  - enabled: 1
+    path: Assets/_YooSeungmok/Scenes/Pokemonstatus.unity
+    guid: 2eb10699d95bab14f9fbeb77ee1867ef
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
