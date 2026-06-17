@@ -13,7 +13,13 @@ MonoBehaviour:
   m_Name: PokemonData
   m_EditorClassIdentifier: Assembly-CSharp::PokemonData
   pokemonID: 1
-  pokemonName: "\uC774\uC0C1\uD574\uC528"
-  pokemonSprite: {fileID: 0}
+  pokemonName: "\uAC70\uB2E4\uC774\uB9E5\uC2A4 \uB9AC\uC790\uBABD"
+  pokemonSprite: {fileID: 21300000, guid: 44ac9ed02b6d4aa4ba74af82fe01cd6e, type: 3}
   isDiscovered: 0
   isCaught: 1
+  isShiny: 0
+  isLucky: 0
+  isXXL: 0
+  isXXS: 0
+  isPerfect: 0
+  pokemonForm: 1
